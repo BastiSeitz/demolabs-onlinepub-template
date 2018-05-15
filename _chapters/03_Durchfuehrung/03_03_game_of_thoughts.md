@@ -531,7 +531,7 @@ rübergebracht?
 		</tr>
 		<tr>
 		<td style="font-weight: bold;">Material</td>
-		<td><a href="https://bpb.de/lernen/grafstat/partizipation-vor-ort/ 155252/zielscheibe-zur-evaluation">bpb.de/lernen/grafstat/partizipation-vor-ort/ 155252/zielscheibe-zur-evaluation</a> 
+		<td><a href="https://bpb.de/lernen/grafstat/partizipation-vor-ort/155252/zielscheibe-zur-evaluation">bpb.de/lernen/grafstat/partizipation-vor-ort/155252/zielscheibe-zur-evaluation</a> 
 		</td>
 		</tr>
 	</tbody>
