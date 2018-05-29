@@ -210,7 +210,7 @@ Räume befreit, ist das Spiel gewonnen.
 <table>
 	<tbody>
 		<td style="font-weight: bold;">Minuten</td>
-		<td>60</td>
+		<td>5</td>
 		</tr>
 		<tr>
 		<td style="font-weight: bold;">Ziel</td>
